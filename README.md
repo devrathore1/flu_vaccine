@@ -1,5 +1,5 @@
 
-# Project Title
+# Goal
 
 The goal is to forecast how likely people are to obtain H1N1 and seasonal flu vaccinations. I'll specifically forecast two probabilities: one for h1n1 vaccine and one for seasonal vaccine.
 
